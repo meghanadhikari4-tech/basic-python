@@ -8,7 +8,7 @@ menu ={
 
 }
 
-print("Welcome to spree restaurant")
+print("Welcome to meghan restaurant")
 print("momo:rs 120\npizza:rs 360\nsalad:rs200\nspring roll:rs180\nburger:rs240\nsoftdrink:rs100")
 order_total=0
 item_1=input("enter the name of dish you want to order=")
