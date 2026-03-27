@@ -62,4 +62,4 @@ while True:
     elif choice=="4":
        print("thankyou for using ATM machine")
     else:
-       print("invalid choice")
+       print("invalid choices")
